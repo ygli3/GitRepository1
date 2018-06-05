@@ -1,3 +1,4 @@
 # GitRepository1
 create a new brach
-master
+<<<<<<< HEAD
+master and feature1
